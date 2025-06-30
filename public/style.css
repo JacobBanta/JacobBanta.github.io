@@ -1,0 +1,23 @@
+/* Default light theme */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  a {
+    color: #66d9ef; /* dark mode link color */
+  }
+
+  a:hover {
+    color: #a1e8ff; /* dark mode hover link color */
+  }
+  a:visited {
+    color: #c586c0;
+  }
+}
