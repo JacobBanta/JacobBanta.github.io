@@ -6,3 +6,4 @@ page_template = "notes-page.html"
 
 * [CSE1322](@/notes/CSE1322/_index.md)
 * [STAT2332](@/notes/STAT2332/_index.md)
+* [HIST1111](@/notes/HIST1111/_index.md)
