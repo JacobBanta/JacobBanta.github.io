@@ -14,4 +14,5 @@ title = "The Plan"
 
 
 
+for the second and third ones, there is the option of 4 bedrooms if we could find a fourth person. 
 
