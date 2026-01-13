@@ -4,4 +4,4 @@ template = "notes.html"
 page_template = "notes-page.html"
 +++
 
-* [HIST1111](@/notes/HIST1111/_index.md)
+* [MATH2345 Discrete Mathematics](@/notes/MATH2345/_index.md)
