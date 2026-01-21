@@ -35,6 +35,18 @@ The cardinality of a set {% math() %} \(A\) {% end %}, denoted as {% math() %} \
 
 The empty set is a subset of every set.
 
+### n-tuples
+In sets, order/repeats dont matter. In n-tuples, both of these matter. n-tuples are denoted by parentheses. ordered pairs refer to 2-tuples, and ordered triples refer to 3-tuples.
+
+### Cartesian Products
+For sets {% math() %} \(A\) {% end %} and {% math() %} \(B\) {% end %}, {% math() %} \(A \times B = \{(a,b) \mid a \in A \text{ and } b \in B \}\) {% end %}
+
+### Strings
+"The're just words"
+
+### Bit Strings
+Strings consisting of 0's and 1's
+
 made with
 {% latex() %}
 \(\KaTeX\)
